@@ -21,9 +21,9 @@ gyeMID = gye.profile.mid
 aisMID = ais.profile.mid
 
 Bots = [gyeMID,aisMID]
-creator = ["u2821289b2f0cb7ba14e19c92bdbcfacc"]
-Owner = ["u2821289b2f0cb7ba14e19c92bdbcfacc"]                
-admin = ["u2821289b2f0cb7ba14e19c92bdbcfacc"]
+creator = ["u51f9c821d9cd41aa4cf6c5573f7b0340"]
+Owner = ["u51f9c821d9cd41aa4cf6c5573f7b0340"]                
+admin = ["u51f9c821d9cd41aa4cf6c5573f7b0340"]
 
 gyeProfile = gye.getProfile()
 aisProfile = ais.getProfile()
@@ -87,7 +87,7 @@ def sendMessageWithMention(to, mid):
         
 def helpmessage():
     helpMessage = "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
                   "║͜͡☆➣ HELP" + "\n" + \
@@ -103,19 +103,19 @@ def helpmessage():
                   "║͜͡☆➣☯ Bye " + "\n" + \
                   "║͜͡☆➣☯ Cekk ( cek semua bot )" + "\n" + \
                   "║͜͡☆➣☯ Me" + "\n" + \
-                  "║͜͡☆➣☯  Sp" + "\n" + \
+                  "║͜͡☆➣☯ Sp" + "\n" + \
                   "║͜͡☆➣☯ Status" + "\n" + \
                   "║͜͡☆➣☯ Ciak @" + "\n" + \
                   "║͜͡☆➣☯ Kickallmember" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯"
     return helpMessage
     
 def helptexttospeech():
     helpTextToSpeech =   "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
                   "║͜͡☆➣ HELP1" + "\n" + \
@@ -151,19 +151,19 @@ def helptexttospeech():
                   "║͜͡☆➣☯ Lurking" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯"
     return helpTextToSpeech
     
 def helptranslate():
     helpTranslate =    "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
                   "║͜͡☆➣ HELP2" + "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣☯ AdminLit" + "\n" + \
+                  "║͜͡☆➣☯ AdminList" + "\n" + \
                   "║͜͡☆➣☯ OwnerList" + "\n" + \
                   "║͜͡☆➣☯ BanContact" + "\n" + \
                   "║͜͡☆➣☯ UnbanContact" + "\n" + \
@@ -175,10 +175,10 @@ def helptranslate():
                   "║͜͡☆➣☯ MyMid" + "\n" + \
                   "║͜͡☆➣☯ Midnya @" + "\n" + \
                   "║͜͡☆➣☯ MyName" + "\n" + \
-                  "║͜͡☆➣☯MyBio" + "\n" + \
-                  "║͜͡☆➣☯MyPicture" + "\n" + \
+                  "║͜͡☆➣☯ MyBio" + "\n" + \
+                  "║͜͡☆➣☯ MyPicture" + "\n" + \
                   "║͜͡☆➣☯ MyVideoProfile" + "\n" + \
-                  "║͜͡☆➣☯MyCover" + "\n" + \
+                  "║͜͡☆➣☯ MyCover" + "\n" + \
                   "║͜͡☆➣☯ StealContact @" + "\n" + \
                   "║͜͡☆➣☯ StealMid @" + "\n" + \
                   "║͜͡☆➣☯ StealName「Mention」" + "\n" + \
@@ -198,10 +198,10 @@ def helptranslate():
                   "║͜͡☆➣☯ GroupMemberList" + "\n" + \
                   "║͜͡☆➣☯ GroupInfo" + "\n" + \
                   "║͜͡☆➣☯ Ciak @" + "\n" + \
-                  "║͜͡☆➣☯  KickAllMember"+ "\n" + \
+                  "║͜͡☆➣☯ KickAllMember"+ "\n" + \
                   "╰════════╬🔛╬════════╯" + "\n" + \
                   "╭════════╬🔛╬════════╮" + "\n" + \
-                  "║͜͡☆➣ Ǥﾘ乇 Џんﾑ 乃Ծｲ丂" + "\n" + \
+                  "║͜͡☆➣ zz7_乃Ծｲ丂" + "\n" + \
                   "╰════════╬🔛╬════════╯"
     return helpTranslate
 #==============================================================================#
@@ -230,7 +230,7 @@ def command(text):
 def lineBot(op):
     try:
         if op.type == 0:
-            print ("[ 0 ] GYEVHA BOTS SATU")
+            print ("[ 0 ] ZZ7 BOT ONE")
             return
 #-------------------------------------------------------------------------------
         if op.type == 25:
@@ -274,7 +274,7 @@ def lineBot(op):
                        
 #-------------------------------------------------------------------------------
         if op.type == 25:
-            print ("[ 25 ] GYEVHA BOTS TIGA")
+            print ("[ 25 ] ZZ7 BOT TWO")
             msg = op.message
             text = msg.text
             msg_id = msg.id
@@ -294,16 +294,16 @@ def lineBot(op):
                 if text.lower() == 'help':
                     helpMessage = helpmessage()
                     gye.sendMessage(to, str(helpMessage))
-                    gye.sendContact(to, "u104e95aaefb53cf411f77353f6a96ece")
-                    gye.sendMessage(to,"Jangan Songong Ye Pake Sc Orang 􀰂􀰂􀰂􀰂􀠁✍͡Gye􏿿􀌂􀆭✯➣􏿿")
+                    gye.sendContact(to, "u51f9c821d9cd41aa4cf6c5573f7b0340")
+                    gye.sendMessage(to,"Jangan Songong Ye Pake Sc Orang 􀰂􀰂􀰂􀰂􀠁✍͡zz7􏿿􀌂􀆭✯➣􏿿")
                 elif text.lower() == 'help1':
                     helpTextToSpeech = helptexttospeech()
                     gye.sendMessage(to, str(helpTextToSpeech))
-                    ais.sendMessage(to, "Jangan Songong Ye Pake Bot Orang 􀰂􀰂􀰂􀰂􀠁✍͡Gye􏿿􀌂􀆭✯➣􏿿")
+                    ais.sendMessage(to, "Jangan Songong Ye Pake Bot Orang 􀰂􀰂􀰂􀰂􀠁✍͡zz7􏿿􀌂􀆭✯➣􏿿")
                 elif text.lower() == 'help2':
                     helpTranslate = helptranslate()
                     gye.sendMessage(to, str(helpTranslate))
-                    gye.sendMessage(to, "Jangan Songong Ye Pake Bot Orang 􀰂􀰂􀰂􀰂􀠁✍͡Gye􏿿􀌂􀆭✯➣􏿿")
+                    gye.sendMessage(to, "Jangan Songong Ye Pake Bot Orang 􀰂􀰂􀰂􀰂􀠁✍͡zz7􏿿􀌂􀆭✯➣􏿿")
 #==============================================================================#
                 elif text.lower() == 'sp':
                     start = time.time()
@@ -323,7 +323,7 @@ def lineBot(op):
                 elif text.lower() == 'about':
                     try:
                         arr = []
-                        owner = "u104e95aaefb53cf411f77353f6a96ece"
+                        owner = "u51f9c821d9cd41aa4cf6c5573f7b0340"
                         creator = gye.getContact(owner)
                         contact = gye.getContact(gyeMID)
                         grouplist = gye.getGroupIdsJoined()
@@ -337,7 +337,7 @@ def lineBot(op):
                         ret_ += "\n╠══[ About Selfbot ]"
                         ret_ += "\n╠ Version : Premium"
                         ret_ += "\n╠ Creator : {}".format(creator.displayName)
-                        ret_ += "\n╰════════╬♥╬════════╯\n\nǤﾘ乇 Џんﾑ 乃Ծｲ丂 ╭════════╬♥╬════════╮\n╰════════╬♥╬════════╯"
+                        ret_ += "\n╰════════╬♥╬════════╯\n\nZZ7_乃Ծｲ丂 ╭════════╬♥╬════════╮\n╰════════╬♥╬════════╯"
                         gye.sendMessage(to, str(ret_))
                     except Exception as e:
                         gye.sendMessage(msg.to, str(e))
@@ -365,7 +365,7 @@ def lineBot(op):
                         else: ret_ += "\n║͜͡☆➣ Check Sticker ❌"
                         if settings["detectMention"] == True: ret_ += "\n║͜͡☆➣ Detect Mention ✅"
                         else: ret_ += "\n║͜͡☆➣ Detect Mention ❌"
-                        ret_ += "\n╰════════╬🔛╬════════╯\n╭════════╬🔛╬════════╮\n║͜͡☆➣ 🔛 Ǥﾘ乇 Џんﾑ 乃Ծｲ丂 🔛\n╰════════╬🔛╬════════╯"
+                        ret_ += "\n╰════════╬🔛╬════════╯\n╭════════╬🔛╬════════╮\n║͜͡☆➣ 🔛 ZZ7_乃Ծｲ丂 🔛\n╰════════╬🔛╬════════╯"
                         gye.sendMessage(to, str(ret_))
                     except Exception as e:
                         gye.sendMessage(msg.to, str(e))
@@ -427,10 +427,10 @@ def lineBot(op):
                             gye.sendMessage(msg.to,"The Ownerlist is empty")
                         else:
                             gye.sendMessage(msg.to,"Tunggu...")
-                            mc = "╔═══════════\n║͜͡☆➣ ☯GYEVHA BOTS\n║͜͡☆➣ ☯〘 Owner List 〙\n║͜͡☆➣ ☯\n"
+                            mc = "╔═══════════\n║͜͡☆➣ ☯ZZ7 BOTS\n║͜͡☆➣ ☯〘 Owner List 〙\n║͜͡☆➣ ☯\n"
                             for mi_d in admin:
                                 mc += "║͜͡☆➣ ☯ " +gye.getContact(mi_d).displayName + "\n"
-                            gye.sendMessage(msg.to,mc + "╠════════════\n║͜͡☆➣ ☯〘 line.me/ti/p/~aisyagye 〙\n╚═════════════")
+                            gye.sendMessage(msg.to,mc + "╠════════════\n║͜͡☆➣ ☯〘 line.me/ti/p/ricco1311 〙\n╚═════════════")
 #-------------------------------------------------------------------------------
                 elif msg.text.lower().startswith("adminadd "):
                         targets = []
@@ -479,7 +479,7 @@ def lineBot(op):
                             mc = "╭════════╬🔛╬════════╮\n║͜͡☆➣ ?? 丂ｲﾑｲЦ丂 乃Ծｲ丂 🔛\n"
                             for mi_d in admin:
                                 mc += "║͜͡☆➣ ☯ " +gye.getContact(mi_d).displayName + "\n"
-                            gye.sendMessage(msg.to,mc + "╠═══════════════════\n║͜͡☆➣ ☯〘 line.me/ti/p/~aisyagye 〙\n╰════════╬🔛╬════════╯")
+                            gye.sendMessage(msg.to,mc + "╠═══════════════════\n║͜͡☆➣ ☯〘 line.me/ti/p/ricco1311 〙\n╰════════╬🔛╬════════╯")
 #-------------------------------------------------------------------------------
                 elif text.lower() == 'protect on':
                         if settings["protect"] == True:
@@ -1177,7 +1177,7 @@ def lineBot(op):
                         
 #===DISINI GYE============================================================================[gyeMID - kiMID]
         if op.type == 19:
-            print ("[ 19 ] GYEVHA BOTS KICK")
+            print ("[ 19 ] ZZ7 BOTS KICK")
             try:
                 if op.param3 in gyeMID:
                     if op.param2 in aisMID:
